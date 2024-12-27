@@ -1,2 +1,2 @@
-#Llenado con cualquier informacion poco p menos relevante
+#Llenado con cualquier informacion poco o menos relevante
 
